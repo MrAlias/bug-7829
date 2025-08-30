@@ -1,3 +1,3 @@
 package doot
 
-const DootVersion = "1.0.0"
+const DootVersion = "1.0.1"
